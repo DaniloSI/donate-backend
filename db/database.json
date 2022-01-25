@@ -1,0 +1,104 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "leanne.graham@example.com",
+      "phoneNumber": "27977368031",
+      "address": {
+        "bairro": "São Francisco",
+        "municipio": "Cariacica",
+        "uf": "ES"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Ervin Howell",
+      "username": "Antonette",
+      "email": "ervin.howell@example.com",
+      "phoneNumber": "27971328531",
+      "address": {
+        "bairro": "Morada de Laranjeiras",
+        "municipio": "Serra",
+        "uf": "ES"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Clementine Bauch",
+      "username": "Samantha",
+      "email": "clementine.baunch@example.com",
+      "phoneNumber": "27973328421",
+      "address": {
+        "bairro": "Bento Ferreira",
+        "municipio": "Vitória",
+        "uf": "ES"
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": 1,
+      "mainPhoto": "https://cdn.pixabay.com/photo/2014/09/14/00/06/wall-cabinet-444638_960_720.jpg",
+      "photos": [
+        "https://cdn.pixabay.com/photo/2021/02/02/16/19/wardrobe-5974515_960_720.jpg",
+        "https://cdn.pixabay.com/photo/2020/01/11/23/54/closet-4758960_960_720.png"
+      ],
+      "title": "Guarda-roupa",
+      "shortDescription": "Um lindo guarda-roupa que está em bom estado, mas estou querendo doar.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ultricies mi quis hendrerit dolor magna. Eu nisl nunc mi ipsum faucibus vitae aliquet. Sed egestas egestas fringilla phasellus faucibus. Adipiscing diam donec adipiscing tristique. Netus et malesuada fames ac turpis egestas sed. Aliquam vestibulum morbi blandit cursus risus at ultrices. Quis risus sed vulputate odio ut enim. Et malesuada fames ac turpis egestas integer eget aliquet nibh. Faucibus a pellentesque sit amet porttitor eget dolor. Id neque aliquam vestibulum morbi blandit cursus. Nunc scelerisque viverra mauris in aliquam sem fringilla ut. Blandit volutpat maecenas volutpat blandit aliquam. Viverra mauris in aliquam sem fringilla ut morbi. Dignissim sodales ut eu sem integer vitae justo eget. Habitant morbi tristique senectus et netus et malesuada. Cras tincidunt lobortis feugiat vivamus at augue eget arcu. Urna condimentum mattis pellentesque id nibh tortor id aliquet lectus. Egestas purus viverra accumsan in. Volutpat odio facilisis mauris sit amet.",
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "mainPhoto": "https://cdn.pixabay.com/photo/2013/10/03/23/19/bike-190483_960_720.jpg",
+      "photos": [
+        "https://cdn.pixabay.com/photo/2018/09/26/14/25/man-3704749_960_720.jpg",
+        "https://cdn.pixabay.com/photo/2020/04/07/13/12/bicycle-5013316_960_720.jpg",
+        "https://cdn.pixabay.com/photo/2021/08/28/08/03/bicycle-6580288_960_720.jpg"
+      ],
+      "title": "Bicicleta",
+      "shortDescription": "Uma bicicleta muito boa.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Condimentum vitae sapien pellentesque habitant morbi tristique senectus et. Ut etiam sit amet nisl purus. Nec nam aliquam sem et tortor consequat id. In egestas erat imperdiet sed euismod nisi porta. Mattis molestie a iaculis at erat pellentesque adipiscing commodo elit. Posuere sollicitudin aliquam ultrices sagittis orci a scelerisque purus semper. Pharetra et ultrices neque ornare aenean euismod elementum. In hac habitasse platea dictumst quisque sagittis purus sit amet. Amet justo donec enim diam vulputate ut pharetra. Adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus. Enim eu turpis egestas pretium aenean. Massa vitae tortor condimentum lacinia. Orci a scelerisque purus semper eget.",
+      "userId": 2
+    },
+    {
+      "id": 3,
+      "mainPhoto": "https://cdn.pixabay.com/photo/2015/02/01/22/37/hourglass-620397_960_720.jpg",
+      "photos": [
+        "https://cdn.pixabay.com/photo/2017/02/01/10/53/clock-2029613_960_720.png",
+        "https://cdn.pixabay.com/photo/2016/09/29/16/56/hourglass-1703330_960_720.jpg",
+        "https://cdn.pixabay.com/photo/2018/03/24/21/12/hourglass-3257907_960_720.png"
+      ],
+      "title": "Ampulheta",
+      "shortDescription": "Uma ampulheta que ganhei como um brinde, mas não uso.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Diam vel quam elementum pulvinar etiam non quam lacus. Faucibus a pellentesque sit amet porttitor eget dolor morbi non. Aenean sed adipiscing diam donec adipiscing tristique. Lectus mauris ultrices eros in cursus turpis massa. Facilisi morbi tempus iaculis urna id volutpat lacus laoreet. Amet mauris commodo quis imperdiet massa tincidunt nunc pulvinar. Magna ac placerat vestibulum lectus mauris ultrices eros in. Neque laoreet suspendisse interdum consectetur. Mauris in aliquam sem fringilla ut morbi. Sit amet venenatis urna cursus eget nunc scelerisque viverra. Sodales neque sodales ut etiam sit amet. Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus.",
+      "userId": 1
+    },
+    {
+      "id": 4,
+      "mainPhoto": "https://cdn.pixabay.com/photo/2013/11/07/21/04/boat-207129_960_720.jpg",
+      "photos": [
+        "https://cdn.pixabay.com/photo/2018/01/05/02/50/boat-3062045_960_720.jpg",
+        "https://cdn.pixabay.com/photo/2015/10/30/20/13/boat-1014711_960_720.jpg"
+      ],
+      "title": "Barco de pesca",
+      "shortDescription": "Um barco de pesque que tenho há muitos anos. Vou me mudar e preciso doar.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum tempus egestas sed sed risus pretium quam vulputate dignissim. Nulla malesuada pellentesque elit eget gravida cum sociis. In ornare quam viverra orci sagittis eu volutpat odio facilisis. Iaculis eu non diam phasellus vestibulum. Pretium fusce id velit ut tortor pretium viverra suspendisse potenti. Purus gravida quis blandit turpis cursus in hac habitasse. Integer enim neque volutpat ac. Amet est placerat in egestas erat imperdiet. Accumsan tortor posuere ac ut consequat semper. Urna duis convallis convallis tellus id. Nisi est sit amet facilisis magna etiam tempor orci. Diam ut venenatis tellus in metus vulputate eu scelerisque felis.",
+      "userId": 3
+    },
+    {
+      "id": 5,
+      "mainPhoto": "https://cdn.pixabay.com/photo/2017/06/20/23/15/coffee-2425303_960_720.jpg",
+      "photos": [
+        "https://cdn.pixabay.com/photo/2015/01/08/18/25/desk-593327_960_720.jpg",
+        "https://cdn.pixabay.com/photo/2020/10/21/18/07/laptop-5673901_960_720.jpg"
+      ],
+      "title": "Notebook",
+      "shortDescription": "Um notebook da DELL com defeito que desejo doar.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. A iaculis at erat pellentesque adipiscing. Odio eu feugiat pretium nibh ipsum consequat. Orci nulla pellentesque dignissim enim sit amet venenatis. Semper eget duis at tellus at urna condimentum mattis. Praesent tristique magna sit amet purus gravida quis. Pharetra et ultrices neque ornare aenean euismod elementum nisi. Diam phasellus vestibulum lorem sed risus ultricies tristique nulla aliquet. Facilisis magna etiam tempor orci eu lobortis elementum nibh tellus. Quis commodo odio aenean sed. Nulla porttitor massa id neque aliquam vestibulum morbi blandit. Nibh tortor id aliquet lectus proin nibh. Auctor eu augue ut lectus. Orci nulla pellentesque dignissim enim sit amet venenatis urna cursus. Pharetra sit amet aliquam id diam maecenas ultricies mi eget.",
+      "userId": 2
+    }
+  ]
+}
